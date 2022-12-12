@@ -1,0 +1,14 @@
+.close {
+    border: none;
+    background: none
+}
+
+.reg-btn {
+    background: #54AB34;
+    color: white;
+}
+
+.b-round {
+    border-radius: 100px;
+    ;
+}
